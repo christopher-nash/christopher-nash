@@ -1,16 +1,19 @@
-### Hi there 👋
+# Christopher Nash
 
-<!--
-**christopher-nash/christopher-nash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Softare Development
 
-Here are some ideas to get you started:
+## Technologies & Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TEMPORARY - COPIED FROM OTHER PLACES
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+   [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux
+   <p align="center">
+       <a href="https://github.com/christopher-nash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/christophernashslc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  </p>
