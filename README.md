@@ -13,10 +13,15 @@
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
    ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
    ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
    ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
    ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
    ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
    [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux
    <p align="center">
        <a href="https://github.com/christopher-nash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
