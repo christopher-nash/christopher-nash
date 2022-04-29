@@ -3,7 +3,7 @@
 Hi there 👋 I'm Christopher Nash.
 
 💡 &nbsp; I'm a backend software engineer.\
-🎓 &nbsp; I graduated from Weber State Univery, Utah (Bachelor of Science, Computer Science, 2019).\
+🎓 &nbsp; I graduated from Weber State University, Utah (Bachelor of Science, Computer Science, 2019).\
 💻 &nbsp; I'm a huge technology lover!
 
 ## Softare Development
