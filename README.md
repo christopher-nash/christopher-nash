@@ -6,7 +6,7 @@ Hi there 👋 I'm Christopher Nash.
 🎓 &nbsp; I graduated from Weber State University, Utah (Bachelor of Science, Computer Science, 2019).\
 💻 &nbsp; I'm a huge technology lover!
 
-## Softare Development
+## Software Development
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=black)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=black)&nbsp;
