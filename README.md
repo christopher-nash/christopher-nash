@@ -10,7 +10,7 @@ Hi there 👋 I'm Christopher Nash.
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=black)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=black)&nbsp;
-![Spring](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring&color=black)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring%20Boot&color=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&color=black)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&color=black)
 
