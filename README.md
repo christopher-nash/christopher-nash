@@ -26,6 +26,12 @@ Hi there 👋 I'm Christopher Nash.
 ![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android&color=black)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-000?style=flat-square&logo=splunk&color=black)&nbsp;
 
+## Processes & Techniques
+* Continous Delivery
+* Agile/Scrum
+* Test Driven Development
+* 
+
 ## Reach Out
 <a href="https://www.linkedin.com/in/christophernashslc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&color=black"></a>&nbsp;
 <a href="https://github.com/christopher-nash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@christopher--nash-000?style=flat-square&logo=GitHub&logoColor=white&color=black"></a>
