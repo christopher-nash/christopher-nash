@@ -11,6 +11,7 @@ Hi there 👋 I'm Christopher Nash.
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396&color=black)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring&color=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot&color=black)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=007396&color=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&color=black)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&color=black)
 
@@ -27,6 +28,7 @@ Hi there 👋 I'm Christopher Nash.
 ![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android&color=black)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-000?style=flat-square&logo=splunk&color=black)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-000?style=flat-square&logo=slack&color=black)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&color=black)&nbsp;
 
 ## Reach Out
 <a href="https://www.linkedin.com/in/christophernashslc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/%40-Linkedin-black?color=black"></a>&nbsp;
