@@ -6,6 +6,10 @@ Hi there 👋 I'm Christopher Nash.
 🎓 &nbsp; I graduated from Weber State University, Utah (Bachelor of Science, Computer Science, 2019).\
 💻 &nbsp; I'm a huge technology lover!
 
+## Reach Out
+<a href="https://www.linkedin.com/in/christophernashslc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-christophernashslc-black.svg?logo=data:image/svg%2bxml;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4wMOEzkc/54CswAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAA4klEQVQoz2OUb9m95+H7784MJAB5Qc69jAzFm/4zMDAw2CoKMTAwMDAcvv+OKM1MME2Hsq0ZDmVbww0gSiM5gKBTOViYGHjZWRjefP3F8B9JnAXGOJRtDTGpZDPD/x5fhscfvjNsuPKCIcNSnoGVmYnh2ccfDFHLzjEcvPsWv1NlBTgZcm0UGX78/sfw999/Bil+DobJATrE+bF6+w0GvprtDB6zTzAwMDAw6EjwEqdxzsmHDAwMDAwnHr6HeIORkTiNr778YmBgYGD48usv9aKD8ngk2UZ5Qc69pGrSl+LbDQA0sUX/gxknXAAAAABJRU5ErkJggg=="></a>&nbsp;
+<a href="https://github.com/christopher-nash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@christopher--nash-000?style=flat-square&logo=GitHub&logoColor=white&color=black"></a>
+
 ## Software Development
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396&color=black)&nbsp;
@@ -30,10 +34,6 @@ Hi there 👋 I'm Christopher Nash.
 ![Splunk](https://img.shields.io/badge/-Splunk-000?style=flat-square&logo=splunk&color=black)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-000?style=flat-square&logo=slack&color=black)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&color=black)&nbsp;
-
-## Reach Out
-<a href="https://www.linkedin.com/in/christophernashslc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/%40-Linkedin-black?color=black"></a>&nbsp;
-<a href="https://github.com/christopher-nash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@christopher--nash-000?style=flat-square&logo=GitHub&logoColor=white&color=black"></a>
 
 <!---
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=christopher-nash.christopher-nash)
