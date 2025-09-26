@@ -26,14 +26,24 @@ Hi there 👋 I'm Christopher Nash.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=black)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&color=black)&nbsp;
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=githubcopilot&color=black)&nbsp;
+![Cline](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=githubcopilot&color=black)&nbsp;
+![Roo Code](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=githubcopilot&color=black)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90&color=black)&nbsp;
-
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&color=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&color=black)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android&color=black)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-000?style=flat-square&logo=splunk&color=black)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-000?style=flat-square&logo=slack&color=black)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&color=black)&nbsp;
+
+## AI Experience
+ChatGPT
+Claude
+GH Copilot
+Cline
+Roo Code
+Gemini
+Ollama
 
 <!---
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=christopher-nash.christopher-nash)
