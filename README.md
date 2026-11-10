@@ -2,7 +2,8 @@
 
 Hi there 👋 I'm Christopher Nash.
 
-💡 &nbsp; I'm a backend software engineer.\
+💡 &nbsp; I'm a backend software engineer at FamilySearch, building Java/Spring Boot microservices on AWS.\
+🤖 &nbsp; Daily Claude Code user and AI enthusiast who loves spreading that excitement and helping others grow.\
 🎓 &nbsp; I graduated from Weber State University, Utah (Bachelor of Science, Computer Science, 2019).\
 💻 &nbsp; I'm a huge technology lover!
 
@@ -26,14 +27,18 @@ Hi there 👋 I'm Christopher Nash.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&color=black)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&color=black)&nbsp;
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=githubcopilot&color=black)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-black?style=flat-square&logo=claude&color=black)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions&color=black)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90&color=black)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&color=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu&color=black)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-000?style=flat-square&logo=android&color=black)&nbsp;
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-000?style=flat-square&logo=dynatrace&color=black)&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-000?style=flat-square&logo=splunk&color=black)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-000?style=flat-square&logo=slack&color=black)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter&color=black)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-000?style=flat-square&logo=databricks&color=black)&nbsp;
 
 <!---
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=christopher-nash.christopher-nash)
